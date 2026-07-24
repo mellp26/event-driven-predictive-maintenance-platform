@@ -46,3 +46,5 @@ By combining real-time IoT telemetry, enterprise business processes, and enginee
 
 ## Solution Architecture
 
+![Event-Driven Smart Predictive Maintenance Architecture](docs/architecture.png)
+
