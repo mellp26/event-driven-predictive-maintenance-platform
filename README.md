@@ -52,5 +52,10 @@ By combining real-time IoT telemetry, enterprise business processes, and enginee
 
 [![Event-Driven Smart Predictive Maintenance Architecture](docs/businessbenefits.png)](docs/businessbenefits.png)
 
+## Future Scope
+
+[![Event-Driven Smart Predictive Maintenance Architecture](docs/futurescope.png)](docs/futurescope.png)
+
+
 
 
