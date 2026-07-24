@@ -46,13 +46,19 @@ By combining real-time IoT telemetry, enterprise business processes, and enginee
 
 ## Solution Architecture
 
+The proposed solution combines Azure IoT, SAP S/4HANA, Azure AI, and Hexagon SDx within an event-driven architecture to automate predictive maintenance workflows. Real-time telemetry, enterprise asset management, engineering information, and AI-assisted recommendations work together to improve maintenance planning and operational decision-making.
+
 [![Event-Driven Smart Predictive Maintenance Architecture](docs/architecture.png)](docs/architecture.png)
 
 ## Business Benefits
 
+The proposed architecture delivers measurable business value by improving maintenance efficiency, reducing downtime, and supporting data-driven operational decision-making.
+
 [![Event-Driven Smart Predictive Maintenance Architecture](docs/businessbenefits.png)](docs/businessbenefits.png)
 
 ## Future Scope
+
+The proposed solution provides a scalable foundation for future enhancements as enterprise requirements evolve.
 
 [![Event-Driven Smart Predictive Maintenance Architecture](docs/futurescope.png)](docs/futurescope.png)
 
